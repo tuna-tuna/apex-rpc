@@ -15,3 +15,10 @@
 
 - [**DiscordRPCPlugin**](https://github.com/overwolf/community-gists/tree/master/DiscordRPCPlugin)
   - Put three dlls into plugins directory.
+
+
+
+# etc
+
+- Note that this program is made from extending the apex-event-sample-app, and currently WIP.
+- Also I made this program mainly for learning JS and something like that, so don't care about the quality and the shit code.
